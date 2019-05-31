@@ -18,7 +18,8 @@ This is an amazing method for unsupervised defect segmentation using AutoEncoder
 
 
 # 2. Use SSIM
-The structural similarity (SSIM) index is a method for predicting the perceived quality of digital television and cinematic picturese.
-It tries to exploit the interdependence between the images while calculating the similarity.
+
+*The structural similarity (SSIM) index is a method for predicting the perceived quality of digital television and cinematic picturese.
+It tries to exploit the interdependence between the images while calculating the similarity.*
 
 If you use SSIM method, you have to pip install SSIM-PIL.
