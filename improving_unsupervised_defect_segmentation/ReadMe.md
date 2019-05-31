@@ -14,7 +14,7 @@ This is an amazing method for unsupervised defect segmentation using AutoEncoder
 `PIL` <b>
 `matplotlib`<b>
 `numpy`<b>
-`os`<b>
+  `os`<b>
 
 
 # 2. Use SSIM
