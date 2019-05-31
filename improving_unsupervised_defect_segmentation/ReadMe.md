@@ -1,5 +1,6 @@
 This is Pytorch implementation of the paper "Improving Unsupervised Defect Segmentation by Applying Structural Similarity to Autoencoders".
 https://arxiv.org/abs/1807.02011 
+
 I used this for a comparative analysis with my novel approach to anomaly detection
 That's is amazing method for unsupervised defect segmentation using AutoEncoder with SSIM. 
 
