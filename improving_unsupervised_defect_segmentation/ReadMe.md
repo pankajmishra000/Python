@@ -8,13 +8,13 @@ I used this for a comparative analysis with my novel approach to anomaly detecti
 This is an amazing method for unsupervised defect segmentation using AutoEncoder with SSIM. 
 
 # 1. Usage
-0. Install Library
-Pytorch >= 1.0 
-scikit-learn 
-PIL 
-matplotlib
-numpy
-os
+*Install Library*
+`Pytorch >= 1.0`<b> 
+`scikit-learn` <b>
+`PIL` <b>
+`matplotlib`<b>
+`numpy`<b>
+`os`<b>
 
 
 # 2. Use SSIM
