@@ -1,10 +1,12 @@
-This is Pytorch implementation of the paper "Improving Unsupervised Defect Segmentation by Applying Structural Similarity to Autoencoders".
+# Improving_Unsupervised_Defect_Segmentation
+
+This is *Pytorch* implementation of the paper "Improving Unsupervised Defect Segmentation by Applying Structural Similarity to Autoencoders".
 https://arxiv.org/abs/1807.02011 
 
 I used this for a comparative analysis with my novel approach to anomaly detection
 That's is amazing method for unsupervised defect segmentation using AutoEncoder with SSIM. 
 
-#1. Usage
+# 1. Usage
 0. Install Library
 Pytorch >= 1.0 
 scikit-learn 
@@ -14,7 +16,7 @@ numpy
 os
 
 
-#2. Use SSIM
+# 2. Use SSIM
 The structural similarity (SSIM) index is a method for predicting the perceived quality of digital television and cinematic picturese.
 It tries to exploit the interdependence between the images while calculating the similarity.
 
